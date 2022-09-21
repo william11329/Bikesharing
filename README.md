@@ -1,5 +1,9 @@
 # Bikesharing
+
+## this will direct you to the Tableau story I created. 
+
 https://public.tableau.com/views/Challenge14Bikedata/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Overview of analysis
 - This visualization represents Citi Bike data from New York City during August of 2019. It will be utilized to draw conclusions as to if 
 a bike sharing buisness would be viable for a similar buisness stationed in Des Moines.
